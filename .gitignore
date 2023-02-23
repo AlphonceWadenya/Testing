@@ -1,0 +1,8 @@
+# ignore bin folder
+bin/
+
+# ignore .ipynb_checkpoints
+.ipynb_checkpoints/
+
+# ignore cat_dog_model
+cat_dog_model/
